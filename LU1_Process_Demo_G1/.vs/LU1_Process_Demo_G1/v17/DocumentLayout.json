@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LU1_Process_Demo_G1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\LU1_Process_Demo_G1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4F8A7DB-F7AE-420B-B8AA-3EE891F92D4D}|LU1_Process_Demo_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\lu1_process_demo_g1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4F8A7DB-F7AE-420B-B8AA-3EE891F92D4D}|LU1_Process_Demo_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\folders_repo\\sem2lu-\\lu1_process_demo_g1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F8A7DB-F7AE-420B-B8AA-3EE891F92D4D}|LU1_Process_Demo_G1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LU1_Process_Demo_G1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\LU1_Process_Demo_G1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LU1_Process_Demo_G1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\LU1_Process_Demo_G1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T08:10:39.412Z",
               "EditorCaption": ""

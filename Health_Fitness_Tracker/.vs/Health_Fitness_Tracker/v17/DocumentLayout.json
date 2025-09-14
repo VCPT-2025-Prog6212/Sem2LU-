@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Health_Fitness_Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDCF99A-3A58-4708-B3D6-5C005E821A70}|Health_Fitness_Tracker.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\health_fitness_tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBDCF99A-3A58-4708-B3D6-5C005E821A70}|Health_Fitness_Tracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Health_Fitness_Tracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Health_Fitness_Tracker\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:22:11.179Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Donut_Shop_G1_Class_Library\Donut_Shop_G1_Class_Library\obj\Debug\net8.0-windows\Donut_Shop_G1_Class_Library.Form1.resources
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Donut_Shop_G1_Class_Library\Donut_Shop_G1_Class_Library\obj\Debug\net8.0-windows\Donut_Shop_G1_Class_Library.csproj.GenerateResource.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Donut_Shop_G1_Class_Library\Donut_Shop_G1_Class_Library\obj\Debug\net8.0-windows\Donut_Shop_G1_Class_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Donut_Shop_G1_Class_Library\Donut_Shop_G1_Class_Library\obj\Debug\net8.0-windows\Donut_Shop_G1_Class_Library.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Donut_Shop_G1_Class_Library\Donut_Shop_G1_Class_Library\obj\Debug\net8.0-windows\Donut_Shop_G1_Class_Library.AssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Donut_Shop_G1_Class_Library\Donut_Shop_G1_Class_Library\obj\Debug\net8.0-windows\Donut_Shop_G1_Class_Library.csproj.CoreCompileInputs.cache

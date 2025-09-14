@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LU1_Process_Demo_G1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ba2f25229d669b0436e2bff8ff2ab719d58f60")]
 [assembly: System.Reflection.AssemblyProductAttribute("LU1_Process_Demo_G1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LU1_Process_Demo_G1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

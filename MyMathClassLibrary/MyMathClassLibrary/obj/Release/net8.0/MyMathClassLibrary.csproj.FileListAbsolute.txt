@@ -1,0 +1,11 @@
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\bin\Release\net8.0\MyMathClassLibrary.deps.json
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\bin\Release\net8.0\MyMathClassLibrary.dll
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\bin\Release\net8.0\MyMathClassLibrary.pdb
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\MyMathClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\MyMathClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\MyMathClassLibrary.AssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\MyMathClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\MyMathClassLibrary.dll
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\refint\MyMathClassLibrary.dll
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\MyMathClassLibrary.pdb
+C:\Users\user\Documents\PROG6212\threads\MyMathClassLibrary\MyMathClassLibrary\obj\Release\net8.0\ref\MyMathClassLibrary.dll

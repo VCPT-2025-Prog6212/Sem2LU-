@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mathClassLib1/1.0.0": {
+        "dependencies": {
+          "MyMathClassLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "mathClassLib1.dll": {}
+        }
+      },
+      "MyMathClassLibrary/1.0.0.0": {
+        "runtime": {
+          "MyMathClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mathClassLib1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMathClassLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

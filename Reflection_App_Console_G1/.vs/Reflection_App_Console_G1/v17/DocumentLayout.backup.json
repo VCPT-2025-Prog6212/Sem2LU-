@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Reflection_App_Console_G1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0683B334-00D5-4CE2-A0F4-C3CD2D72C319}|Reflection_App_Console_G1\\Reflection_App_Console_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\reflection_app_console_g1\\reflection_app_console_g1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0683B334-00D5-4CE2-A0F4-C3CD2D72C319}|Reflection_App_Console_G1\\Reflection_App_Console_G1.csproj|solutionrelative:reflection_app_console_g1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Reflection_App_Console_G1\\Reflection_App_Console_G1\\Program.cs",
+              "RelativeDocumentMoniker": "Reflection_App_Console_G1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Reflection_App_Console_G1\\Reflection_App_Console_G1\\Program.cs*",
+              "RelativeToolTip": "Reflection_App_Console_G1\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:27:13.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LU1_Process_Demo_G1\\LU1_Process_Demo_G1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\LU1_Process_Demo_G1\\LU1_Process_Demo_G1.csproj",
       "projectName": "LU1_Process_Demo_G1",
-      "projectPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LU1_Process_Demo_G1\\LU1_Process_Demo_G1.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\LU1_Process_Demo_G1\\LU1_Process_Demo_G1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LU1_Process_Demo_G1\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\LU1_Process_Demo_G1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
