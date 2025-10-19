@@ -1,0 +1,45 @@
+﻿@model List<prjFileUpload.Models.Assignment> // call the model
+
+	<h1> Upload to Folder </h1>
+
+	@using (Html.BeginForm("Upload", "Assignment", FormMethod.Post,
+	new { enctype = "multipart/form-data"})) // allows file uploads
+	{
+		<label for="uploaderName"> Your Name: </label>
+		<input type="text" name="uploaderName" required />
+
+		<br/>
+
+		<label for="file"> Select file </label>
+		<input type="file" name="file" required />
+
+		<br/>
+
+		<input type="submit" value="Upload" />
+	}
+
+	<h2> Uploaded Assignment </h2>
+
+	<table> 
+		<tr>
+			<th> ID </th>
+			<th> File Name </th>
+			<th> Uploader Name </th>
+			<th> Upload Date </th>
+			<th> Actions </th>
+		</tr>
+	@foreach (var assignment in Model) // loop through each item in list
+	{
+		<tr>
+			<td> @assignment.id </td>
+			<td> @assignment.fileName </td>
+			<td> @assignment.uploaderName </td>
+			<td> @assignment.uploadDate </td>
+			<td> 
+				<a href="@Url.Action("OpenFile", "Assignment", 
+				new { fileName = assignment.fileName})" 
+				target="_blank"> Open </a>
+			</td>
+		</tr>
+	}
+</table>

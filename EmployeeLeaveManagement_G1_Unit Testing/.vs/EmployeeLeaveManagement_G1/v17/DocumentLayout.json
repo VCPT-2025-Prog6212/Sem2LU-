@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2ED771-3FFC-475B-97BB-B1A249E870F7}|LeaveSystem.Tests\\LeaveSystem.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1_unit testing\\leavesystem.tests\\leaverequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2ED771-3FFC-475B-97BB-B1A249E870F7}|LeaveSystem.Tests\\LeaveSystem.Tests.csproj|solutionrelative:leavesystem.tests\\leaverequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2ED771-3FFC-475B-97BB-B1A249E870F7}|LeaveSystem.Tests\\LeaveSystem.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1_unit testing\\leavesystem.tests\\employeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2ED771-3FFC-475B-97BB-B1A249E870F7}|LeaveSystem.Tests\\LeaveSystem.Tests.csproj|solutionrelative:leavesystem.tests\\employeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2ED771-3FFC-475B-97BB-B1A249E870F7}|LeaveSystem.Tests\\LeaveSystem.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1_unit testing\\leavesystem.tests\\leaverequestcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2ED771-3FFC-475B-97BB-B1A249E870F7}|LeaveSystem.Tests\\LeaveSystem.Tests.csproj|solutionrelative:leavesystem.tests\\leaverequestcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1_unit testing\\employeeleavemanagement_g1\\controllers\\leaverequestcontroller\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\controllers\\leaverequestcontroller\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1_unit testing\\employeeleavemanagement_g1\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1_unit testing\\employeeleavemanagement_g1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:35:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\LeaveSystem.Tests\\LeaveRequestControllerTests.cs",
+              "RelativeDocumentMoniker": "LeaveSystem.Tests\\LeaveRequestControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\LeaveSystem.Tests\\LeaveRequestControllerTests.cs",
+              "RelativeToolTip": "LeaveSystem.Tests\\LeaveRequestControllerTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:32:47.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequestTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\LeaveSystem.Tests\\LeaveRequestTests.cs",
+              "RelativeDocumentMoniker": "LeaveSystem.Tests\\LeaveRequestTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\LeaveSystem.Tests\\LeaveRequestTests.cs",
+              "RelativeToolTip": "LeaveSystem.Tests\\LeaveRequestTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:50:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:35:41.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\LeaveSystem.Tests\\EmployeeTests.cs",
+              "RelativeDocumentMoniker": "LeaveSystem.Tests\\EmployeeTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\LeaveSystem.Tests\\EmployeeTests.cs",
+              "RelativeToolTip": "LeaveSystem.Tests\\EmployeeTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:33:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1_Unit Testing\\EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:49:36.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

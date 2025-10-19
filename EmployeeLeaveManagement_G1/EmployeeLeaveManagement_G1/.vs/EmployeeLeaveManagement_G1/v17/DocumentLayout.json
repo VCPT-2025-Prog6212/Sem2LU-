@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\views\\leaverequest\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\views\\leaverequest\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\controllers\\leaverequestcontroller\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\controllers\\leaverequestcontroller\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\views\\leaverequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\views\\leaverequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\views\\leaverequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\views\\leaverequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\employeeleavemanagement_g1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FEDB69-032B-48DB-9894-B5AED3157F3D}|EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1.csproj|solutionrelative:employeeleavemanagement_g1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Create.cshtml",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T13:23:20.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Index.cshtml",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T13:27:27.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Details.cshtml",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T13:27:14.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Views\\LeaveRequest\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T13:27:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Controllers\\LeaveRequestController\\LeaveRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:38:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:21:03.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement_G1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:20:47.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

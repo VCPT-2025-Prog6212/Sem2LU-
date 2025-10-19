@@ -1,0 +1,35 @@
+﻿@model EmployeeLeaveManagement_G1.Models.LeaveRequest
+
+@{
+    ViewData["Title"] = "Leave Request Details";
+}
+
+<h2>Leave Request Details</h2>
+
+<div class="form-group">
+    <label>Leave Request ID:</label>
+    <p>@Model.LeaveRequestID</p>
+</div>
+<div class="form-group">
+    <label>Employee ID:</label>
+    <p>@Model.EmployeeID</p>
+</div>
+<div class="form-group">
+    <label>Start Date:</label>
+    <p>@Model.StartDate.ToShortDateString()</p>
+</div>
+<div class="form-group">
+    <label>End Date:</label>
+    <p>@Model.EndDate.ToShortDateString()</p>
+</div>
+<div class="form-group">
+    <label>Reason:</label>
+    <p>@Model.Reason</p>
+</div>
+<div class="form-group">
+    <label>Status:</label>
+    <p>@Model.Status</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+<a asp-action="Edit" asp-route-id="@Model.LeaveRequestID" class="btn btn-warning">Edit</a>

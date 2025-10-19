@@ -1,0 +1,44 @@
+﻿@model IEnumerable<EmployeeLeaveManagement_G1.Models.LeaveRequest>
+
+@{
+    ViewData["Title"] = "Leave Requests";
+}
+
+<h2>All Leave Requests</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Employee ID</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Reason</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.EmployeeID</td>
+                <td>@request.StartDate.ToShortDateString()</td>
+                <td>@request.EndDate.ToShortDateString()</td>
+                <td>@request.Reason</td>
+                <td>@request.Status</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@request.LeaveRequestID" class="btn btn-info">View</a>
+                    <a asp-action="Edit" asp-route-id="@request.LeaveRequestID" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@request.LeaveRequestID" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this request?');">Delete</a>
+                    @if (request.Status == "Pending")
+                    {
+                        <a asp-action="ApproveReject" asp-route-id="@request.LeaveRequestID" asp-route-status="Approved" class="btn btn-success">Approve</a>
+                        <a asp-action="ApproveReject" asp-route-id="@request.LeaveRequestID" asp-route-status="Rejected" class="btn btn-secondary">Reject</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Leave Request</a>
