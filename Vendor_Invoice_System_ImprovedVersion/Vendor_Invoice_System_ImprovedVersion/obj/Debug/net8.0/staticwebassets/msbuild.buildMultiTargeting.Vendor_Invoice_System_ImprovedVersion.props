@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vendor_Invoice_System_ImprovedVersion.props" />
+</Project>

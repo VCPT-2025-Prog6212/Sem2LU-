@@ -31,3 +31,37 @@ C:\Users\young\source\repos\prjFileUpload\prjFileUpload\obj\Debug\net8.0\refint\
 C:\Users\young\source\repos\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.pdb
 C:\Users\young\source\repos\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.genruntimeconfig.cache
 C:\Users\young\source\repos\prjFileUpload\prjFileUpload\obj\Debug\net8.0\ref\prjFileUpload.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.staticwebassets.runtime.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.staticwebassets.endpoints.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.exe
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.deps.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.runtimeconfig.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\bin\Debug\net8.0\prjFileUpload.pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.AssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.RazorAssemblyInfo.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.RazorAssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.sourcelink.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\scopedcss\bundle\prjFileUpload.styles.css
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\scopedcss\projectbundle\prjFileUpload.bundle.scp.css
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\refint\prjFileUpload.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\prjFileUpload.genruntimeconfig.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Folders_repo\Sem2LU-\prjFileUpload - EncryptionDecryption\prjFileUpload\prjFileUpload\obj\Debug\net8.0\ref\prjFileUpload.dll

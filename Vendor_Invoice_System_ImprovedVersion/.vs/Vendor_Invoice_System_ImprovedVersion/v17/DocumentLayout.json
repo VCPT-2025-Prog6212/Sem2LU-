@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\invoice\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\invoice\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\invoice\\invoicesubmitted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\invoice\\invoicesubmitted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\invoice\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\invoice\\download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\invoice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\invoice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\invoice\\approve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\invoice\\approve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|c:\\users\\user\\documents\\vendor_invoice_system_improvedversion\\vendor_invoice_system_improvedversion\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88E000-5BC5-4281-927F-0C3863384CBB}|Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion.csproj|solutionrelative:vendor_invoice_system_improvedversion\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:31:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Details.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Details.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Details.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:33:48.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Download.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Download.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Download.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Download.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Download.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:33:29.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Index.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:20:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceSubmitted.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\InvoiceSubmitted.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\InvoiceSubmitted.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\InvoiceSubmitted.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\InvoiceSubmitted.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:44:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:41:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Approve.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Approve.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Approve.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Approve.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Approve.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:44:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Submit.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Submit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Submit.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\Invoice\\Submit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:42:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Models\\Invoice.cs",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Models\\Invoice.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:40:45.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Models\\Vendor.cs",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Models\\Vendor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:40:00.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T07:24:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Vendor_Invoice_System_ImprovedVersion\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T07:24:52.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

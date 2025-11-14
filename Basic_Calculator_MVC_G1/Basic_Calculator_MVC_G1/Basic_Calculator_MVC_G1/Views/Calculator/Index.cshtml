@@ -1,0 +1,43 @@
+﻿@model Basic_Calculator_MVC_G1.Models.CalculatorModel
+
+@{
+    ViewData["Title"] = "Basic Calculator";
+}
+<h2>Basic Calculator</h2>
+
+<form asp-action="Calculate" method="post"> 
+    <div class="form-group">
+        <label for="Operand1">First Number </label>
+        <input asp-for="Operand1" class="form-control" />
+        <span asp-validation-for="Operand1" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Operator">Operator</label>
+        <select asp-for="Operator" class="form-control">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value ="/">/</option>
+        </select>
+        <span asp-validation-for="Operator" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Operand2">Second Number </label>
+        <input asp-for="Operand2" class="form-control" />
+        <span asp-validation-for="Operand2" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Calculate</button>
+</form>
+
+<!-- Display the result if the Model is valid -->
+@if (Model != null && ViewData.ModelState.IsValid)
+    {
+        <h3>Result: @Model.Result</h3>    
+    }
+<!-- Display Validation Errors -->
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+

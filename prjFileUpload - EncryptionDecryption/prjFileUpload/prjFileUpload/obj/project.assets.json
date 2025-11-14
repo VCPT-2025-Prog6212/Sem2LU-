@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\prjFileUpload.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\prjFileUpload.csproj",
       "projectName": "prjFileUpload",
-      "projectPath": "C:\\Users\\user\\Downloads\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\prjFileUpload.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\prjFileUpload.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

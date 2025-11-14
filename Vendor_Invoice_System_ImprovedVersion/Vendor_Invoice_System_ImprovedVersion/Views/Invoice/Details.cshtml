@@ -1,0 +1,80 @@
+﻿@model Vendor_Invoice_System_ImprovedVersion.Models.Invoice
+<!-- This view expects a single Invoice model object -->
+
+<div class="container mt-4">
+    <!-- Bootstrap container with margin-top -->
+    <h2>Invoice Details</h2>  <!-- Page heading -->
+
+    <div class="card">
+        <!-- Bootstrap card for styling -->
+        <div class="card-body">
+            <!-- Card body to display invoice details -->
+            <h5 class="card-title">Invoice #@Model.InvoiceId</h5>  <!-- Invoice ID -->
+            <!-- Display Vendor ID -->
+            <p class="card-text"><strong>Vendor ID:</strong> @Model.VendorId</p>
+
+            <!-- Format and display the amount as currency (South African Rand) -->
+            <p class="card-text">
+                <strong>Amount:</strong> @Model.Amount.ToString("C", new System.Globalization.CultureInfo("en-ZA"))
+            </p>
+
+            <!-- Display Invoice Date and Due Date -->
+            <p class="card-text"><strong>Invoice Date:</strong> @Model.InvoiceDate.ToShortDateString()</p>
+            <p class="card-text"><strong>Due Date:</strong> @Model.DueDate.ToShortDateString()</p>
+
+            <!-- Display Submission Date with date and time format -->
+            <p class="card-text">
+                <strong>Submission Date:</strong> @Model.SubmissionDate.ToString("g")
+            </p>
+
+            <!-- Display Approval Status (Approved or Pending) -->
+            <p class="card-text">
+                <strong>Status:</strong> @(Model.IsApproved ? "Approved" : "Pending")
+            </p>
+
+            <!-- If the invoice is approved, display the approval date -->
+            @if (Model.IsApproved)
+            {
+                <p class="card-text">
+                    <strong>Approved Date:</strong> @Model.ApprovedDate?.ToString("g")
+                    <!-- Use nullable type to avoid errors if ApprovedDate is null -->
+                </p>
+            }
+
+            <!-- Display if the invoice is paid or not -->
+            <p class="card-text">
+                <strong>Paid:</strong> @(Model.IsPaid ? "Yes" : "No")
+            </p>
+
+            <!-- Conditional display for attached document -->
+            @if (!string.IsNullOrEmpty(Model.DocumentPath))
+            {
+                <p class="card-text">
+                    <strong>Attached Document:</strong>
+                    <a asp-action="DownloadFile" asp-route-id="@Model.InvoiceId" class="btn btn-primary btn-sm">
+                        Download Invoice File
+                    </a>
+                </p>
+            }
+            else
+            {
+                <p class="card-text"><strong>Attached Document:</strong> No file attached</p>
+            }
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <!-- Buttons for actions -->
+        <!-- If the invoice is not approved, show the Approve button -->
+        @if (!Model.IsApproved)
+        {
+            <form asp-action="Approve" asp-route-id="@Model.InvoiceId" method="post" style="display: inline;">
+                <button type="submit" class="btn btn-success mr-2">Approve Invoice</button>
+                <!-- Approve button to submit the form as POST -->
+            </form>
+        }
+
+        <!-- Back to the list of all invoices -->
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

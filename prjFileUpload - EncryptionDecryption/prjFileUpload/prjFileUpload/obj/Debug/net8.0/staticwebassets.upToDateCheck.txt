@@ -58,3 +58,6 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\uploads\PROG6212POE - Updated Part 2.docx
+wwwroot\uploads\Testing.txt
+wwwroot\uploads\TTVCPTA1.jpg

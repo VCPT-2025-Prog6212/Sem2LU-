@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Basic_Calculator_MVC_G1.Models.CalculatorModel>
+
+@{
+    ViewData["Title"] = "History";
+}
+
+<h1>History</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Operand1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Operand2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Operator)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Result)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Operand1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Operand2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Operator)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Result)
+            </td>           
+        </tr>
+}
+    </tbody>
+</table>

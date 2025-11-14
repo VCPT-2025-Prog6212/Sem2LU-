@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vendor_Invoice_System_ImprovedVersion.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Vendor_Invoice_System_ImprovedVersion.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\10bda77d-fd89-4abf-a810-54f7f6f60cee_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\10bda77d-fd89-4abf-a810-54f7f6f60cee_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\16c9e258-9369-445f-ab7c-ef435b242cd4_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\16c9e258-9369-445f-ab7c-ef435b242cd4_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\19adfa51-04bb-4951-9cf1-cb1e9ee0553c_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\19adfa51-04bb-4951-9cf1-cb1e9ee0553c_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\3ae7c71d-021f-4ffa-ba25-9a86eea2bfce_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3ae7c71d-021f-4ffa-ba25-9a86eea2bfce_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\6b26f437-669e-444c-8973-4a60233c0505_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6b26f437-669e-444c-8973-4a60233c0505_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\76418375-6421-4825-9646-7bbf5e3bf1a1_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\76418375-6421-4825-9646-7bbf5e3bf1a1_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\7fcef611-b3d8-4721-9fcd-855adde85e83_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7fcef611-b3d8-4721-9fcd-855adde85e83_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\aa1c9f91-de0f-4cb2-bfeb-7dc9746c5f9e_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\aa1c9f91-de0f-4cb2-bfeb-7dc9746c5f9e_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\ad43a48f-b3b4-4ecc-9bca-bb62191d75bd_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ad43a48f-b3b4-4ecc-9bca-bb62191d75bd_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\b6aeb5ab-19dc-4b3d-83d0-93ce8bd650d2_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b6aeb5ab-19dc-4b3d-83d0-93ce8bd650d2_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\bf212da4-2c24-47dc-b331-1fb244cf488c_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bf212da4-2c24-47dc-b331-1fb244cf488c_ICE Task Five.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Vendor_Invoice_System_ImprovedVersion\\Vendor_Invoice_System_ImprovedVersion\\wwwroot\\uploads\\c0b25b9a-4123-4a39-8638-fc79098306e3_ICE Task Five.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c0b25b9a-4123-4a39-8638-fc79098306e3_ICE Task Five.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Vendor_Invoice_System_ImprovedVersion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Vendor_Invoice_System_ImprovedVersion.props",
+      "PackagePath": "build\\Vendor_Invoice_System_ImprovedVersion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Vendor_Invoice_System_ImprovedVersion.props",
+      "PackagePath": "buildMultiTargeting\\Vendor_Invoice_System_ImprovedVersion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Vendor_Invoice_System_ImprovedVersion.props",
+      "PackagePath": "buildTransitive\\Vendor_Invoice_System_ImprovedVersion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

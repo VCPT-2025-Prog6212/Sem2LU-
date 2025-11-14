@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\prjClassLibrary\\prjClassLibrary\\TestStudent\\Test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\prjClassLibrary\\prjClassLibrary\\StudentConsole\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basiccalculatorapp.tests\\models\\calculatormodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|solutionrelative:basiccalculatorapp.tests\\models\\calculatormodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basiccalculatorapp.tests\\models\\historytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|solutionrelative:basiccalculatorapp.tests\\models\\historytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basiccalculatorapp.tests\\controller\\calculatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|solutionrelative:basiccalculatorapp.tests\\controller\\calculatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\views\\calculator\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\views\\calculator\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\models\\historyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\models\\historyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basiccalculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|solutionrelative:basiccalculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basiccalculatorapp.tests\\basiccalculatorapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EFA24CB-B236-4B03-AE68-22321051DD15}|BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj|solutionrelative:basiccalculatorapp.tests\\basiccalculatorapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\basic_calculator_mvc_g1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA20101-6C5C-449A-89E0-AD1CBCF78B33}|Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1.csproj|solutionrelative:basic_calculator_mvc_g1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\prjClassLibrary\\prjClassLibrary\\TestStudent\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\prjClassLibrary\\prjClassLibrary\\TestStudent\\Test1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\prjClassLibrary\\prjClassLibrary\\TestStudent\\Test1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\prjClassLibrary\\prjClassLibrary\\TestStudent\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:26:21.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\prjClassLibrary\\prjClassLibrary\\StudentConsole\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\prjClassLibrary\\prjClassLibrary\\StudentConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\prjClassLibrary\\prjClassLibrary\\StudentConsole\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\prjClassLibrary\\prjClassLibrary\\StudentConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:26:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\Models\\HistoryTests.cs",
+              "RelativeDocumentMoniker": "BasicCalculatorApp.Tests\\Models\\HistoryTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\Models\\HistoryTests.cs",
+              "RelativeToolTip": "BasicCalculatorApp.Tests\\Models\\HistoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:26:29.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T12:11:39.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Models\\CalculatorModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Models\\CalculatorModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:29:33.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistoryUtil.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Models\\HistoryUtil.cs",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Models\\HistoryUtil.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Models\\HistoryUtil.cs",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Models\\HistoryUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T12:14:27.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\Models\\CalculatorModelTests.cs",
+              "RelativeDocumentMoniker": "BasicCalculatorApp.Tests\\Models\\CalculatorModelTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\Models\\CalculatorModelTests.cs",
+              "RelativeToolTip": "BasicCalculatorApp.Tests\\Models\\CalculatorModelTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:52:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:37:48.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\Controller\\CalculatorControllerTests.cs",
+              "RelativeDocumentMoniker": "BasicCalculatorApp.Tests\\Controller\\CalculatorControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\Controller\\CalculatorControllerTests.cs",
+              "RelativeToolTip": "BasicCalculatorApp.Tests\\Controller\\CalculatorControllerTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:43:52.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Calculator\\History.cshtml",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Views\\Calculator\\History.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Calculator\\History.cshtml",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Views\\Calculator\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T13:19:39.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T09:41:03.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T09:29:43.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T09:41:00.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T09:42:11.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:43:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\appsettings.Development.json",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T09:41:53.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T09:41:18.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BasicCalculatorApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BasicCalculatorApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:37:46.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasicCalculatorApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj",
+              "RelativeDocumentMoniker": "BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj",
+              "RelativeToolTip": "BasicCalculatorApp.Tests\\BasicCalculatorApp.Tests.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T11:52:55.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_Calculator_MVC_G1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Basic_Calculator_MVC_G1\\Program.cs",
+              "RelativeToolTip": "Basic_Calculator_MVC_G1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:42:51.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

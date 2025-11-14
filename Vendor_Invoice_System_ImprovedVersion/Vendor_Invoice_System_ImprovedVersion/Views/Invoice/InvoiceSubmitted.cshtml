@@ -1,0 +1,53 @@
+﻿@model Vendor_Invoice_System_ImprovedVersion.Models.Invoice  // The view expects a single Invoice model.
+
+<div class="container mt-4">
+    <!-- Bootstrap container with margin-top for layout -->
+    <!-- Check if a success message is available in TempData -->
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            <!-- Bootstrap alert for success messages -->
+            @TempData["SuccessMessage"]  <!-- Display the success message -->
+        </div>
+    }
+
+    <div class="card">
+        <!-- Bootstrap card component to show invoice details -->
+        <div class="card-header">
+            <h4>Invoice Submitted Successfully</h4>  <!-- Header of the card -->
+        </div>
+
+        <div class="card-body">
+            <!-- Body of the card displaying invoice details -->
+            <h5 class="card-title">Invoice Details</h5>  <!-- Title for the card content -->
+            <!-- Display each field of the invoice model -->
+            <p class="card-text">Invoice ID: @Model.InvoiceId</p>  <!-- Invoice ID -->
+            <p class="card-text">Vendor ID: @Model.VendorId</p>  <!-- Vendor ID -->
+            <!-- Amount formatted as currency for South African currency (en-ZA) -->
+            <p class="card-text">
+                <strong>Amount:</strong> @Model.Amount.ToString("C", new System.Globalization.CultureInfo("en-ZA"))
+            </p>
+
+            <!-- Display the invoice and due dates in short date format -->
+            <p class="card-text">Invoice Date: @Model.InvoiceDate.ToShortDateString()</p>
+            <p class="card-text">Due Date: @Model.DueDate.ToShortDateString()</p>
+
+            <!-- Display the submission date in general date and time format (e.g., 17/10/2024 15:30) -->
+            <p class="card-text">Submission Date: @Model.SubmissionDate.ToString("g")</p>
+
+            <!-- Show the file path or 'No file uploaded' if no file is associated -->
+            <p class="card-text">
+                File: @(string.IsNullOrEmpty(Model.DocumentPath) ? "No file uploaded" : Model.DocumentPath)
+            </p>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <!-- Action buttons for further navigation -->
+        <!-- Button to submit another invoice -->
+        <a asp-action="Submit" class="btn btn-primary mr-2">Submit Another Invoice</a>
+
+        <!-- Button to go back to the list of all invoices -->
+        <a asp-action="Index" class="btn btn-secondary">View All Invoices</a>
+    </div>
+</div>

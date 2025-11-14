@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\young\\source\\repos\\prjFileUpload\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\young\\source\\repos\\prjfileupload\\prjfileupload\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|solutionrelative:prjfileupload\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\young\\source\\repos\\prjfileupload\\prjfileupload\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\folders_repo\\sem2lu-\\prjfileupload - encryptiondecryption\\prjfileupload\\prjfileupload\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|solutionrelative:prjfileupload\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\young\\source\\repos\\prjfileupload\\prjfileupload\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|solutionrelative:prjfileupload\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\folders_repo\\sem2lu-\\prjfileupload - encryptiondecryption\\prjfileupload\\prjfileupload\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|solutionrelative:prjfileupload\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\young\\source\\repos\\prjfileupload\\prjfileupload\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\folders_repo\\sem2lu-\\prjfileupload - encryptiondecryption\\prjfileupload\\prjfileupload\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|solutionrelative:prjfileupload\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\folders_repo\\sem2lu-\\prjfileupload - encryptiondecryption\\prjfileupload\\prjfileupload\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E9DD685-B21C-4503-8D90-9D364ACFB75A}|prjFileUpload\\prjFileUpload.csproj|solutionrelative:prjfileupload\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,55 +29,51 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EncryptionHelper.cs",
-              "DocumentMoniker": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\EncryptionHelper.cs",
               "RelativeDocumentMoniker": "prjFileUpload\\EncryptionHelper.cs",
-              "ToolTip": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\EncryptionHelper.cs",
               "RelativeToolTip": "prjFileUpload\\EncryptionHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T10:20:52.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AssignmentController.cs",
-              "DocumentMoniker": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\Controllers\\AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\Controllers\\AssignmentController.cs",
               "RelativeDocumentMoniker": "prjFileUpload\\Controllers\\AssignmentController.cs",
-              "ToolTip": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\Controllers\\AssignmentController.cs",
               "RelativeToolTip": "prjFileUpload\\Controllers\\AssignmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T13:30:29.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\Views\\Assignment\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\Views\\Assignment\\Index.cshtml",
               "RelativeDocumentMoniker": "prjFileUpload\\Views\\Assignment\\Index.cshtml",
-              "ToolTip": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\Views\\Assignment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\Views\\Assignment\\Index.cshtml",
               "RelativeToolTip": "prjFileUpload\\Views\\Assignment\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-08T13:09:18.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\Models\\Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\Models\\Assignment.cs",
               "RelativeDocumentMoniker": "prjFileUpload\\Models\\Assignment.cs",
-              "ToolTip": "C:\\Users\\young\\source\\repos\\prjFileUpload\\prjFileUpload\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Folders_repo\\Sem2LU-\\prjFileUpload - EncryptionDecryption\\prjFileUpload\\prjFileUpload\\Models\\Assignment.cs",
               "RelativeToolTip": "prjFileUpload\\Models\\Assignment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

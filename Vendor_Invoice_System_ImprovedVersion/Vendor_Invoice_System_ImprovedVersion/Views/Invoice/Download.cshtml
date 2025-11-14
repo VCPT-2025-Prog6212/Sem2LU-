@@ -1,0 +1,52 @@
+﻿@model Vendor_Invoice_System_ImprovedVersion.Models.Invoice
+<!-- This view expects an Invoice model object -->
+
+<div class="container mt-4">
+    <!-- Bootstrap container with top margin -->
+    <h2>Invoice Details</h2>  <!-- Page heading -->
+
+    <div class="card">
+        <!-- Bootstrap card component for styling -->
+        <div class="card-body">
+            <!-- Card body to display invoice details -->
+            <h5 class="card-title">Invoice #@Model.InvoiceId</h5>  <!-- Invoice ID -->
+            <!-- Display Vendor ID -->
+            <p class="card-text"><strong>Vendor ID:</strong> @Model.VendorId</p>
+
+            <!-- Display Amount formatted as currency (South African Rand) -->
+            <p class="card-text">
+                <strong>Amount:</strong> @Model.Amount.ToString("C", new System.Globalization.CultureInfo("en-ZA"))
+            </p>
+
+            <!-- Display Invoice Date in short date format -->
+            <p class="card-text"><strong>Invoice Date:</strong> @Model.InvoiceDate.ToShortDateString()</p>
+
+            <!-- Display Due Date in short date format -->
+            <p class="card-text"><strong>Due Date:</strong> @Model.DueDate.ToShortDateString()</p>
+
+            <!-- Conditional display of the attached document -->
+            @if (!string.IsNullOrEmpty(Model.DocumentPath))  // If a document is attached
+            {
+                <p class="card-text">
+                    <strong>Attached Document:</strong>
+                    <a asp-action="DownloadFile" asp-route-id="@Model.InvoiceId" class="btn btn-primary btn-sm">
+                        Download File  <!-- Button to download the attached file -->
+                    </a>
+                </p>
+            }
+            else  // If no document is attached
+            {
+                <p class="card-text"><strong>Attached Document:</strong> No file attached</p>
+            }
+        </div>
+    </div>
+
+    <!-- Navigation buttons -->
+    <div class="mt-4">
+        <!-- Button to go back to the details view -->
+        <a asp-action="Details" asp-route-id="@Model.InvoiceId" class="btn btn-secondary mr-2">Back to Details</a>
+
+        <!-- Button to go back to the list of invoices -->
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

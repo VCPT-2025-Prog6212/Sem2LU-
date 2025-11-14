@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7121AA93-60DD-4C77-83A0-D2226E3AAF7A}|Identity_MVC_Demo\\Identity_MVC_Demo.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\identity_mvc_demo(assigned_roles)\\identity_mvc_demo(assigned_roles)\\identity_mvc_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7121AA93-60DD-4C77-83A0-D2226E3AAF7A}|Identity_MVC_Demo\\Identity_MVC_Demo.csproj|solutionrelative:identity_mvc_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7121AA93-60DD-4C77-83A0-D2226E3AAF7A}|Identity_MVC_Demo\\Identity_MVC_Demo.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\identity_mvc_demo(assigned_roles)\\identity_mvc_demo(assigned_roles)\\identity_mvc_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7121AA93-60DD-4C77-83A0-D2226E3AAF7A}|Identity_MVC_Demo\\Identity_MVC_Demo.csproj|solutionrelative:identity_mvc_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7121AA93-60DD-4C77-83A0-D2226E3AAF7A}|Identity_MVC_Demo\\Identity_MVC_Demo.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\identity_mvc_demo(assigned_roles)\\identity_mvc_demo(assigned_roles)\\identity_mvc_demo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7121AA93-60DD-4C77-83A0-D2226E3AAF7A}|Identity_MVC_Demo\\Identity_MVC_Demo.csproj|solutionrelative:identity_mvc_demo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity_MVC_Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo\\appsettings.json",
+              "RelativeToolTip": "Identity_MVC_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T15:07:01.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Identity_MVC_Demo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Identity_MVC_Demo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:36:52.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Identity_MVC_Demo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo(Assigned_Roles)\\Identity_MVC_Demo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Identity_MVC_Demo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:16:53.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

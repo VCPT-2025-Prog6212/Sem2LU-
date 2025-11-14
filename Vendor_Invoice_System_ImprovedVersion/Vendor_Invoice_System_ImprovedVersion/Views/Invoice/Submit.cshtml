@@ -1,0 +1,77 @@
+﻿@model Vendor_Invoice_System_ImprovedVersion.Models.Invoice  // The view expects an Invoice model.
+
+<div class="container mt-4">
+    <!-- Bootstrap container with margin-top for layout -->
+    <h2 class="mb-4">Submit Invoice</h2>  <!-- Heading for the page -->
+    <!-- Display validation errors if the ModelState is not valid -->
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            <!-- Bootstrap alert for error messages -->
+            <h5>Error</h5>
+            <ul>
+                <!-- List all validation errors -->
+                @foreach (var modelState in ViewData.ModelState.Values)  // Iterate through all ModelState entries
+                {
+                    foreach (var error in modelState.Errors)  // Iterate through the errors for each ModelState entry
+                    {
+                        <li>@error.ErrorMessage</li>  <!-- Display each error message -->
+                    }
+                }
+            </ul>
+        </div>
+    }
+
+    <!-- Form to submit a new invoice -->
+    <form asp-action="Submit" method="post" enctype="multipart/form-data">
+        <!-- enctype="multipart/form-data" is required for file uploads -->
+        <!-- Vendor ID input field -->
+        <div class="form-group">
+            <label asp-for="VendorId">Vendor ID:</label>  <!-- Label for the VendorId field -->
+            <input asp-for="VendorId" class="form-control" required />  <!-- Input field bound to VendorId -->
+            <span asp-validation-for="VendorId" class="text-danger"></span>  <!-- Error message for VendorId -->
+        </div>
+
+        <!-- Amount input field -->
+        <div class="form-group">
+            <label asp-for="Amount">Amount:</label>  <!-- Label for the Amount field -->
+            <input asp-for="Amount" class="form-control" type="number" step="0.01" required />
+            <!-- Input field bound to Amount with step value for decimals -->
+            <span asp-validation-for="Amount" class="text-danger"></span>  <!-- Error message for Amount -->
+        </div>
+
+        <!-- Invoice Date input field -->
+        <div class="form-group">
+            <label asp-for="InvoiceDate">Invoice Date:</label>  <!-- Label for the InvoiceDate field -->
+            <input asp-for="InvoiceDate" class="form-control" type="date" required />
+            <!-- Input field for selecting a date -->
+            <span asp-validation-for="InvoiceDate" class="text-danger"></span>  <!-- Error message for InvoiceDate -->
+        </div>
+
+        <!-- Due Date input field -->
+        <div class="form-group">
+            <label asp-for="DueDate">Due Date:</label>  <!-- Label for the DueDate field -->
+            <input asp-for="DueDate" class="form-control" type="date" required />
+            <!-- Input field for selecting a date -->
+            <span asp-validation-for="DueDate" class="text-danger"></span>  <!-- Error message for DueDate -->
+        </div>
+
+        <!-- File upload field -->
+        <div class="form-group">
+            <label for="file">Upload Document:</label>  <!-- Label for the file upload field -->
+            <input type="file" class="form-control-file" id="file" name="file" required>
+            <!-- Input field for uploading files -->
+        </div>
+
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-primary">Submit Invoice</button>
+    </form>
+</div>
+
+<!-- Section for loading client-side validation scripts -->
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        // This partial view loads the necessary scripts for client-side validation.
+    }
+}

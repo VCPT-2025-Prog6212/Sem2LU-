@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Vendor_Invoice_System_ImprovedVersion.Models.Invoice>  // This view expects a collection of Invoice objects.
+
+<div class="container mt-4">
+    <!-- Bootstrap container to structure the layout with some margin-top spacing -->
+    <h2>Pending Approvals</h2>  <!-- Heading for the page -->
+    @if (!Model.Any())  // Check if there are no invoices in the model.
+    {
+        <p>No pending invoices found.</p>
+        // Display this message if no invoices are available.
+    }
+    else
+    {
+        <table class="table">
+            <!-- Bootstrap-styled table -->
+            <thead>
+                <!-- Table header to define column names -->
+                <tr>
+                    <th>Invoice ID</th>  <!-- Column for the Invoice ID -->
+                    <th>Vendor ID</th>  <!-- Column for Vendor ID associated with the invoice -->
+                    <th>Amount</th>  <!-- Column for Invoice Amount -->
+                    <th>Invoice Date</th>  <!-- Column for the Invoice Date -->
+                    <th>Due Date</th>  <!-- Column for the Due Date -->
+                    <th>Actions</th>  <!-- Column for action buttons (Details and Approve) -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table body where each row represents an invoice -->
+                @foreach (var item in Model)  // Loop through each Invoice object in the model.
+                {
+                    <tr>
+                        <td>@item.InvoiceId</td>  // Display the Invoice ID.
+                        <td>@item.VendorId</td>  // Display the Vendor ID.
+
+                        <!-- Format the amount as currency with South African culture (en-ZA) -->
+                        <td>@item.Amount.ToString("C", new System.Globalization.CultureInfo("en-ZA"))</td>
+
+                        <!-- Display the Invoice Date in short date format -->
+                        <td>@item.InvoiceDate.ToShortDateString()</td>
+
+                        <!-- Display the Due Date in short date format -->
+                        <td>@item.DueDate.ToShortDateString()</td>
+
+                        <td>
+                            <!-- Link to view the details of the specific invoice -->
+                            <a asp-action="Details" asp-route-id="@item.InvoiceId" class="btn btn-info btn-sm">Details</a>
+
+                            <!-- Form to approve the invoice by submitting a POST request -->
+                            <form asp-action="Approve" asp-route-id="@item.InvoiceId" method="post" style="display: inline;">
+                                <button type="submit" class="btn btn-success btn-sm">Approve</button>  <!-- Approve button -->
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>  <!-- End of the table -->
+    }
+
+    <!-- Button to navigate back to the main invoice list -->
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>  <!-- End of the container -->

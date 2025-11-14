@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Vendor_Invoice_System_ImprovedVersion.Models.Invoice>
+<!-- This view expects a collection of Invoice objects. -->
+
+<div class="container mt-4">
+    <!-- Bootstrap container with top margin -->
+    <h2>All Invoices</h2>  <!-- Page heading -->
+
+    <p>
+        <!-- Link to the Submit action for creating a new invoice -->
+        <a asp-action="Submit" class="btn btn-primary">Create New Invoice</a>
+    </p>
+
+    <!-- Check if there are no invoices to display -->
+    @if (!Model.Any())
+    {
+        <p>No invoices found.</p>  <!-- Display this message if the list is empty -->
+    }
+    else
+    {
+        <table class="table">
+            <!-- Bootstrap-styled table -->
+            <thead>
+                <!-- Table header -->
+                <tr>
+                    <th>Invoice ID</th>  <!-- Column for Invoice ID -->
+                    <th>Vendor ID</th>  <!-- Column for Vendor ID -->
+                    <th>Amount</th>  <!-- Column for Amount -->
+                    <th>Invoice Date</th>  <!-- Column for Invoice Date -->
+                    <th>Due Date</th>  <!-- Column for Due Date -->
+                    <th>Status</th>  <!-- Column for Status (Approved or Pending) -->
+                    <th>Actions</th>  <!-- Column for action buttons (Details, Approve) -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table body to list invoices -->
+                @foreach (var item in Model)  // Loop through each invoice in the model
+                {
+                    <tr>
+                        <td>@item.InvoiceId</td>  <!-- Display the Invoice ID -->
+                        <td>@item.VendorId</td>  <!-- Display the Vendor ID -->
+                        <!-- Format the amount as currency using South African format -->
+                        <td>@item.Amount.ToString("C", new System.Globalization.CultureInfo("en-ZA"))</td>
+
+                        <!-- Display the invoice and due dates in short date format -->
+                        <td>@item.InvoiceDate.ToShortDateString()</td>
+                        <td>@item.DueDate.ToShortDateString()</td>
+
+                        <!-- Display the status based on the IsApproved flag -->
+                        <td>@(item.IsApproved ? "Approved" : "Pending")</td>
+
+                        <td>
+                            <!-- Button to view the details of the invoice -->
+                            <a asp-action="Details" asp-route-id="@item.InvoiceId" class="btn btn-info btn-sm">Details</a>
+
+                            <!-- Display the Approve button only if the invoice is not approved -->
+                            @if (!item.IsApproved)
+                            {
+                                <form asp-action="Approve" asp-route-id="@item.InvoiceId" method="post" style="display: inline;">
+                                    <button type="submit" class="btn btn-success btn-sm">Approve</button>  <!-- Approve button -->
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>  <!-- End of the table -->
+    }
+</div>
